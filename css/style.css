@@ -1,0 +1,39 @@
+.word:hover {
+    text-shadow: 10px 10px 30px #ccc;
+}
+
+.carousel-item img {
+    background-size: cover;
+    height: 400px;
+}
+
+.accordion-button:hover {
+    background-color: rgb(96, 96, 96);
+    color: #ccc;
+}
+
+.bc {
+    background-image: url('../images/js.jpg');
+    background-attachment: fixed;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bc2 {
+    background-image: url('../images/bc2.jpg');
+    background-attachment: fixed;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.face {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(59, 89, 152);
+}
+
+hr .border-top {
+    border-width: 50px;
+}
